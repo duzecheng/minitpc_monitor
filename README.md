@@ -34,4 +34,4 @@ A data generator is added to generator.ipynb in ./data-generator. It will genera
 
 A Xe mass indicator is added to monitor.py
 
-This update is commited as 'alert & Xe-mass' on branch duzecheng
+This update is commited as 'alert & Xe-mass(new)'
